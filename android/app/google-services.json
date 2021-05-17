@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183174949654",
+    "project_id": "frames-4ed1d",
+    "storage_bucket": "frames-4ed1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183174949654:android:62160cedfc027c10007e37",
+        "android_client_info": {
+          "package_name": "com.example.frames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183174949654-au2cf44u4uljjbb6c3fv164tad7q8cdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhnKpH8AQE_2j5NixZWJCSkmmZHiTL1_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183174949654-au2cf44u4uljjbb6c3fv164tad7q8cdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
